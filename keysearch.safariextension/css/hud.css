@@ -1,7 +1,7 @@
 #keysearchHud {
 	width: 100% !important;
 	height: 80px !important;
-	background-color: rgba(33,33,33,0.65) !important;
+	background-color: rgba(33,33,33,0.85) !important;
 	position: fixed !important;
 	z-index: 99999 !important;
 	bottom: 0 !important;
